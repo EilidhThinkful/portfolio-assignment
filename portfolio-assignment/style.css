@@ -5,7 +5,7 @@ body {
 }
 /*header*/
 header {
-  background-color: gray;
+  background-color: silver;
   text-align: center;
   margin: auto;
   padding: 5%;
@@ -13,7 +13,7 @@ header {
 
 header > h2 {
  margin: 0;
- color: rgb(218, 163, 12);
+ color: purple;
  font-size: 20px;
 }
 
@@ -28,7 +28,7 @@ h1 {
 h3 {
   text-decoration: underline;
   font-family: cursive;
-  color:rgb(218, 163, 12);
+  color: purple;
 }
 
 /*main*/
@@ -38,7 +38,7 @@ main {
 
 /*footer*/
 footer {
-  background-color: gray;
+  background-color:silver;
   text-align: center;
 }
 /*horizontal rule*/
